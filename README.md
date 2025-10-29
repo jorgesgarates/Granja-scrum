@@ -3,7 +3,7 @@
 - **Live dev:** `npm run dev` → abre http://localhost:5173/  
 - **Documentación**  
   - [BACKLOG.md](./BACKLOG.md) — Product Backlog  
-  - [SPRINT1.md](./SPRINT1.md) — Sprint Planning y calendario
+  - [sprint1.md](./sprint1.md) — Sprint Planning y calendario
 
 # React + Vite
 
