@@ -1,3 +1,10 @@
+# Granja-scrum
+
+- **Live dev:** `npm run dev` → abre http://localhost:5173/  
+- **Documentación**  
+  - [BACKLOG.md](./BACKLOG.md) — Product Backlog  
+  - [SPRINT1.md](./SPRINT1.md) — Sprint Planning y calendario
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
